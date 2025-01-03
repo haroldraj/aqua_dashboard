@@ -1,6 +1,6 @@
 
 
-# LinkedIn Clone
+# Aqua Dashboard
 >**with Python & PowerBI**
 
 <p align="center">
